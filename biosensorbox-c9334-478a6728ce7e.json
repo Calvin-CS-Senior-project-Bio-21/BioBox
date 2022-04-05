@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "biosensorbox-c9334",
+  "private_key_id": "478a6728ce7ee8577bf43ad8dd13d17548e916fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIdJeKFSmX1881\nZRMHXnUiEViP6Way8kUFd1TPRKFk8GIpTLioVmzALq5xqQ4IyEe1vX/59qZpnrUD\nkNo+xr5hWGcq1ivVpuhogT2AwZTjl3OurlVtYgjecexw7GKKMhP3bMDd0cjwgdyU\n9aQrEYF5rpAR2zlkEeXgpz3m74Fq4wHuiOoOySyzHUuvnZeCztmHjEj3D7LGAsvG\nq8t1jDhVakOm/2wBf5WjlC8/TFsl1Lw648agkkNJoBWYS8w8HUcSJZbEx+e6F9tV\npLnXTc/rm7kX3rrwC1DWOgiFTw/2LAc0/vMixQgm5fwtTn21dxX69ChJIL7wyI1e\nYKp72FFfAgMBAAECggEANPMzWlq3t2/ewLR3v9EQMNUTJ0SYh7leSRDZ+rwew9qJ\nm240MudNZ8CM/OISnnhFFPk/Fmi0UZ8GIrB/LejyviULb3HOd2vU5VIKTHoWGb5W\nZPSRBUlJnXTLZ5LRfr62rntwQMfbA8jR2xk96dCAeoOFc+oMMWZW6i5TOC7Y6UIg\n7xxuSioj/oXVM5vnk4Y43ZeIlN8OOhBQFe4EMM01ERinzK29a+DOTkkib5dO9QNe\nlVclM+xOc2ZPH+zF1TZfOoKkYCS8jWZSo9EhCk1CHUGLqw0LOh1XBndtSaKSahha\nII5G8C07DgqqXFQ5DpnSvlnhLIlEQfOEUE2XOgKMGQKBgQDqg3XvPsDAiGsHnXYO\na9FKxGMD4s56FTO5xMfzYFsRVZlZR6f8PwdeVF1tivhouoM142rF5Go3FucuFgwb\nyb8l31Y67yDKwlwJ+GdskTOgDFS/1ssGSTUYZbtjWRZ91xS9MemHHNgc3FmSv1Nc\na766Hq9G6khgvaNgbYkZ8HZd1wKBgQDa0kueYxljpYT7bw69rS3N/3t83iL2y1DF\nvij9hVwCbotVMemkg3ozyd9myQrGoo+h4YdalcJ23gdDy91AA8+GGuwQS0JLRhx0\ntXW4OmDleWihxnPyxe1iMiCsCIwfF3TdBuK1BEYs2WGSpp4DOC77X91InPhIgLX7\nUqK0ejtnuQKBgF3LnovF6YoYBdbR37n83YSt73xKZpLlj/6o+eAZldLlDaRryIBX\nJTdRPtzlTF1226vd/YKQzPqjqmsAXm9uzYj0PqTrp43xFqbWN2dw29kTlYH1AtbM\nyPOtHLmrlBdYwu6429Iycy135EuRQmIgpfQC+c+/PJuUvZd/t+osBuuZAoGBAJl/\nzcX0tHm/QZLza/7Ifgo0ftawKQzAwQ+F/tEg/NND4n/H/KMIC/BKW2mJ/AItRN6F\nC2MTDRA/Xg9D8heW1Lu5JQGlGYMeUpXYORUb9p7i1PAu+2VBTO2GRn8Hm+uvk638\nx4m9ztBlSVoLgWq2vdZegCcQ3eZWS9JaPIKoAAYZAoGBANC7UeWloIdQsFhDVrtv\nF5oGhxNqXOMvxSFiQlcuIjzna/RJEgnszbm4BVsiuxS8G49VZ6fS2Y50YAz9I0k7\ny6NlKDopyNTmVoHFDiW1Z27w2dsSpxcFieBArkG4Yh+3o/U6oDjcFCCEi5y3ggjA\nKxvs0nzA9mNWMIBIaRar9OtS\n-----END PRIVATE KEY-----\n",
+  "client_email": "bioboxauth@biosensorbox-c9334.iam.gserviceaccount.com",
+  "client_id": "108241773635399131956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bioboxauth%40biosensorbox-c9334.iam.gserviceaccount.com"
+}
